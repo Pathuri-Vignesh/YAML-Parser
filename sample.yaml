@@ -1,0 +1,5 @@
+name: Coding Challenges
+challenge:
+  name: YAML Parser
+  valid: true
+  count: 101
